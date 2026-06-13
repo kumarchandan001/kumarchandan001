@@ -15,7 +15,7 @@
 
 *3rd Year CSE Undergraduate @ Jain University · CGPA 8.6/10 · Bangalore, India*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/chandan-kumar-9873c)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-kumar-9873c/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandankr.62096@gmail.com)
 [![Phone](https://img.shields.io/badge/+91_6209659816-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916209659816)
